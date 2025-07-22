@@ -92,7 +92,6 @@ A: No. You must choose one — whichever is higher.
 ## 🔗 Helpful Links
 
 - [IRS Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator)
-- [TurboTax Tax Estimator](https://turbotax.intuit.com/tax-tools/calculators/taxcaster/)
 - [IRS Standard Deduction Updates](https://www.irs.gov/newsroom/irs-provides-tax-inflation-adjustments-for-tax-year-2025)
 - [Credits & Deductions List](https://www.irs.gov/credits-deductions-for-individuals)
 
