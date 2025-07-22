@@ -11,6 +11,8 @@ A **tax estimator 2025** is an online tool or calculator that helps you estimate
 
 ---
 
+# Access now [TAX ESTIMATOR TOOL 2025 (**WORKING**)](https://irs-tax-estimator-calculator.dynews.net/)
+
 ## 📊 2025 Federal Tax Brackets
 
 | Filing Status           | Income Range               | Tax Rate | Example Income | Tax Owed on Example Income | Notes                        |
